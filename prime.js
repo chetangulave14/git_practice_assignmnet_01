@@ -12,10 +12,11 @@ return false;
 }
 }
 
-
 let bag  = checkPrime(13)
 if(bag=true){
 console.log("prime")
 }else{
 console.log("Not prime")
 }
+
+
